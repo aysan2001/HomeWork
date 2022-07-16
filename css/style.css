@@ -1,0 +1,22 @@
+div{
+    width: 215px;
+    height: 315px;
+    background-color: black;
+display: inline-block;
+
+margin: 15px;
+margin-top: 100px;
+margin-left: 60px;
+
+
+}
+.qutu{
+    width: 110px;
+    height: 75px;
+ 
+}
+.qutu1{
+    width: 110px;
+    height: 75px;
+    display: block;
+}
